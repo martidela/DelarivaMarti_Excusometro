@@ -1,9 +1,9 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); */
+@import url(https://chatgpt.com/backend-api/estuary/content?id=file_00000000dd7c82108efa2af8400728ae&ts=497411&p=fs&cid=1&sig=7318e88853c30d7872d253661e98b70bf059a4a1ab463d2ccfb4b26b25b2b594&v=0);
 
 body{
     font-family: verdana, geneva, tahoma,sans-serif;
     margin: 0;
-    background-color: blueviolet;
+    background-color: rgb(248, 244, 244);
 }
 
 header {
@@ -11,7 +11,7 @@ header {
     text-align: center;
 }
 h1{
-    color: deeppink;
+    color: rgb(255, 134, 20);
     font-size: 3em;
 }
 main{
