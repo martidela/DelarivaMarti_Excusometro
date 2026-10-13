@@ -35,6 +35,27 @@ section {
     margin-bottom: 20px;
 }
 
+nav {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+     background-color: rgb(220, 130, 20);
+
+}
+
+nav a {
+    color: #000;
+    padding: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    
+}
+
+nav a:hover {
+    background-color: rgba(7, 7, 7, 0.879);
+    color: rgb(220, 130, 20);
+}
+
 h2 {
     font-size: 20px;
 }
@@ -49,9 +70,47 @@ header h3 {
     font-size: 1.2em;
     margin: 0;
 }
-footer {
-    padding: 20px;
-    text-align: left;
-}   
 
+#archivo {
+    text-align: center;
+    color: black;
+    font-size: 2em;
+}
+
+.excusa {
+    text-align: left;
+    background-color: #fafafb;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   color: rgb(220, 130, 20)
+   
+}
+.protocolo {
+    text-align: left;
+}
+
+h2#protocolo {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+li {
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#protocolo {
+    font-size: 2em;
+}
+
+footer {
+    background-color: rgb(220, 130, 20);
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;  
+}
 
